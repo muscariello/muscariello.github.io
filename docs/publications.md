@@ -146,4 +146,4 @@
 
 ## PhD Thesis
 
-- L. Muscariello, "[On Internet Traffic Measurements, Characterization and Modelling](https://drive.google.com/file/d/1E27dSMKA0WmRWF8HlfpsxqIjXfCX8vBb/view?usp=sharing)," *PhD Thesis, Politecnico di Torino*, March 2006
+- L. Muscariello, "[On Internet Traffic Measurements, Characterization and Modelling](assets/phd-thesis-muscariello.pdf)," *PhD Thesis, Politecnico di Torino*, March 2006
