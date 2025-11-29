@@ -8,7 +8,7 @@
 
 ## Short Bio
 
-Luca Muscariello received his MS in 2002 and PhD in 2006 in Electrical Engineering and Computer Science from Politecnico di Torino, Italy. He is currently a Distinguished Engineer at Cisco Systems, where he leads engineering efforts in Emerging Technologies and Incubation, driving internal venture ideation and development to accelerate innovation across Cisco's product portfolio.
+Luca Muscariello received his MS in 2002 and PhD in 2006 in Electrical Engineering and Computer Science from Politecnico di Torino, Italy. He is currently a Distinguished Engineer at Cisco Systems, working in the strategy and incubation group [Outshift](https://outshift.cisco.com/), where he leads engineering efforts in Emerging Technologies and Incubation, driving internal venture ideation and development to accelerate innovation across Cisco's product portfolio.
 
 Previously, Luca spent a decade at Orange Labs (formerly France Telecom R&D), conducting research in quality of service, traffic management, and traffic engineering for both fixed and mobile networks. He has also served as a research associate at IRT SystemX and as a permanent member of the Laboratory for Information, Networking and Communication Sciences (LINCS) in Paris.
 
