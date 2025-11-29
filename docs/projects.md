@@ -12,7 +12,7 @@ Linux Foundation project launched in 2025.
 
 Linux Foundation project launched in 2025.
 
-[a2aprotocol.ai →](https://a2aprotocol.ai)
+[a2a-protocol.org →](https://a2a-protocol.org)
 
 ---
 
