@@ -1,0 +1,63 @@
+site_name: Luca Muscariello
+site_url: https://muscariello.github.io
+site_description: Personal website of Luca Muscariello - Distinguished Engineer at Cisco Systems
+site_author: Luca Muscariello
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - content.tabs.link
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - PhD Students: students.md
+  - Publications: publications.md
+  - Preprints: preprints.md
+  - Patents: patents.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/muscariello
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/luca-muscariello-ab3546
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search
+
+copyright: Copyright &copy; 2025 Luca Muscariello
