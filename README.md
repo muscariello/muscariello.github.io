@@ -26,12 +26,12 @@ Visit: [muscariello.github.io](https://muscariello.github.io)
 
 1. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   uv venv && uv pip install -r requirements.txt && uv pip install mkdocs-material
    ```
 
 2. Run local server:
    ```bash
-   mkdocs serve
+   source .venv/bin/activate && mkdocs serve
    ```
 
 3. Open http://127.0.0.1:8000 in your browser
