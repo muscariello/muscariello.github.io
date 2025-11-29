@@ -12,7 +12,7 @@ Telecom ParisTech with Prof. Dario Rossi (2012), now at Huawei.
 
 Telecom ParisTech with Prof. Dario Rossi (2016), now at IBM.
 
-[Thesis](https://perso.telecom-paristech.fr/drossi/paper/phd-thesis-claudio-imbrenda.pdf)
+[Thesis](assets/phd-thesis-imbrenda.pdf)
 
 ---
 
