@@ -33,6 +33,7 @@ nav:
   - Home: index.md
   - Projects: projects.md
   - Open Source: oss.md
+  - Specifications: specs.md
   - PhD Students: students.md
   - Publications: publications.md
   - Talks: talks.md
