@@ -32,8 +32,10 @@ theme:
 nav:
   - Home: index.md
   - Projects: projects.md
+  - Open Source: oss.md
   - PhD Students: students.md
   - Publications: publications.md
+  - Talks: talks.md
   - Preprints: preprints.md
   - Patents: patents.md
 
