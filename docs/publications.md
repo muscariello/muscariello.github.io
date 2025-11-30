@@ -44,7 +44,7 @@
 
 ## Conference Publications
 
-- A. Wimbauer, L. Muscariello, J. Samain et al., "ThreatCompute: Leveraging LLMs for Automated Threat Modeling of Cloud-Native Applications," *ACM Cloud Computing Security Workshop, ACM CCS*, October 2025, Taipei, Taiwan
+- A. Wimbauer, L. Muscariello, J. Samain et al., "[ThreatCompute: Leveraging LLMs for Automated Threat Modeling of Cloud-Native Applications](https://doi.org/10.1145/3733812.3765533)" *ACM Cloud Computing Security Workshop, ACM CCS*, October 2025, Taipei, Taiwan
 
 - O. Roques, L. Muscariello, "[On the joint optimization of security, scalability and decentralization of real-time group communications](https://doi.org/10.1145/3565477.3569159)," *ACM CoNEXT Student Workshop (CoNEXT-SW '22)*, 2022
 
