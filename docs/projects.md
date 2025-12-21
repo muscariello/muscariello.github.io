@@ -57,3 +57,9 @@ network architectures including Information-Centric Networking and
 software-defined networking.
 
 [View Project →](https://www.irt-systemx.fr/)
+
+---
+
+## NAPA-WINE
+
+Implementation of libraries to enable P2P multimedia streaming. Popular in 2011 when CDNs were still emerging, it provides a C implementation of a P2P measurement layer that maintains visibility on P2P network status, as well as media chunk and peer scheduling functionalities. The library also includes transport optimization over UDP using Forward Error Correction (FEC).
