@@ -1,5 +1,1 @@
-## Projects
-
-### NAPA-WINE
-- Description of the NAPA-WINE project.
-- Link to the forked code: [NAPA-WINE Repository](https://github.com/muscariello/NAPA-BASELIBS)
+Content of docs/projects.md extracted from commit 1c7bd2e50f476f8bc34e79274ac178e267606d3a.
