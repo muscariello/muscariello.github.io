@@ -26,7 +26,7 @@ Visit: [muscariello.github.io](https://muscariello.github.io)
 
 1. Install dependencies:
    ```bash
-   uv venv && uv pip install -r requirements.txt && uv pip install mkdocs-material
+   uv venv && uv pip install -r requirements.txt
    ```
 
 2. Run local server:
@@ -34,7 +34,12 @@ Visit: [muscariello.github.io](https://muscariello.github.io)
    source .venv/bin/activate && mkdocs serve
    ```
 
-3. Open http://127.0.0.1:8000 in your browser
+3. Build the site:
+   ```bash
+   source .venv/bin/activate && mkdocs build
+   ```
+
+4. Open http://127.0.0.1:8000 in your browser
 
 ### Deploy to GitHub Pages
 
