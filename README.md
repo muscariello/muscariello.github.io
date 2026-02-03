@@ -10,13 +10,19 @@ Visit: [muscariello.github.io](https://muscariello.github.io)
 
 ```
 ├── mkdocs.yml          # MkDocs configuration
+├── pyproject.toml      # Project configuration & dependencies
+├── uv.lock             # Dependency lock file
 ├── docs/
 │   ├── index.md        # Home page / Bio
 │   ├── projects.md     # Ongoing projects
+│   ├── oss.md          # Open Source
+│   ├── specs.md        # Specifications
 │   ├── students.md     # PhD students
 │   ├── publications.md # Publications list
-│   └── patents.md      # Patents
-├── requirements.txt    # Python dependencies
+│   ├── talks.md        # Talks
+│   ├── preprints.md    # Preprints
+│   ├── patents.md      # Patents
+│   └── assets/         # Static assets (images, PDFs)
 └── .github/workflows/  # GitHub Actions for deployment
 ```
 
