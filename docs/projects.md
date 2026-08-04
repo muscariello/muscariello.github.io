@@ -1,5 +1,16 @@
 # Ongoing Projects
 
+## AI Catalog
+
+Common AI Catalog and Registry standard, developed in collaboration with members
+from various AI protocols (MCP, A2A, and others), for discovering heterogeneous
+AI artifacts — such as MCP servers, A2A agent cards, datasets, and model cards —
+across the ecosystem.
+
+[ai-catalog.io →](https://ai-catalog.io/)
+
+---
+
 ## AGNTCY
 
 Linux Foundation project launched in 2025. Building infrastructure for the
